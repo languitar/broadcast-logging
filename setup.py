@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='broadcast-logging',
-    version='0.1',
+    version='0.2-dev',
 
     description='A Python logging system handler which broadcasts log '
                 'messages and a matching receiver executable.',
